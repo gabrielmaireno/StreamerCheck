@@ -1,0 +1,15 @@
+D:\Projetos\CSharp\StreamerCheck\bin\Debug\net8.0\StreamerCheck.exe
+D:\Projetos\CSharp\StreamerCheck\bin\Debug\net8.0\StreamerCheck.deps.json
+D:\Projetos\CSharp\StreamerCheck\bin\Debug\net8.0\StreamerCheck.runtimeconfig.json
+D:\Projetos\CSharp\StreamerCheck\bin\Debug\net8.0\StreamerCheck.dll
+D:\Projetos\CSharp\StreamerCheck\bin\Debug\net8.0\StreamerCheck.pdb
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.AssemblyInfo.cs
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.sourcelink.json
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.dll
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\refint\StreamerCheck.dll
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.pdb
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\StreamerCheck.genruntimeconfig.cache
+D:\Projetos\CSharp\StreamerCheck\obj\Debug\net8.0\ref\StreamerCheck.dll
