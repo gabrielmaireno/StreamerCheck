@@ -7,7 +7,7 @@ This console application, developed in C#, allows you to monitor a list of strea
 Note: (Currently the app is set to look just for the Art category on Twitch, if you want to change category please change inside the Twitch.cs file the "game_id=" number to the desired category. Here is how you can get the game id inteded for the category [Link](https://dev.twitch.tv/docs/api/reference/#get-games)
  
  
-![Twitch API URL](https://github.com/gabrielmaireno/StreamerCheck/assets/73539365/9c5c3627-1107-40b3-a78b-1e0da708dd64)
+![Twitch API URL](https://github.com/gabrielmaireno/StreamerCheck/assets/73539365/9eac8929-f952-4b9a-8ad3-ad876e81ab90)
 
 ## Requirements
 
